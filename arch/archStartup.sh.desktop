@@ -1,0 +1,4 @@
+[Desktop Entry]
+Name=archSetup-afterRestart
+Exec="~/archStartup.sh"
+Type=Application
